@@ -280,7 +280,13 @@ Future development could include:
 - Decision-support analytics
 
 # Author
-Andrew Okebugwu
-Healthcare & Public Health Professional | Healthcare Data Analyst | Business Intelligence
+👤 Author
+
+Andrew Nwachimere-eze Okebugwu, PhD Public Health Physician | Data Scientist
+
+LinkedIn: [https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617]
+
+Email: [dr.andrewokebugwu@gmail.com]
+
 Skills: SQL | PostgreSQL | Tableau | Power BI | Python | Healthcare Analytics | Public Health Data
-#HealthcareAnalytics #HealthInformatics #BusinessIntelligence #DataAnalytics #SQL #Tableau #HealthcareData
+
