@@ -81,16 +81,20 @@ The analytical grain was maintained as:
 # Key Metrics
 Total Appointments
 110,521
+
 The number of valid appointments included in the analysis.
 No-Shows
 22,314
+
 Appointments recorded as not attended.
 No-Show Rate
 20.19%
+
 Approximately one in five scheduled appointments resulted in a no-show.
 Average Lead Time
 10.18 days
 Average time between scheduling and the appointment.
+
 Potential Capacity Impact
 ~11,157 hours
 
