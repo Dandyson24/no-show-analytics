@@ -75,7 +75,7 @@ Tableau Visualization
         ↓
 Operational Insights
         ↓
-Potential Intervention Areas ```
+Potential Intervention Areas
 
 Technology Stack
 Tool	Purpose
