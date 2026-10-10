@@ -279,10 +279,9 @@ Future development could include:
 - Healthcare KPI development
 - Decision-support analytics
 
-# Author
-👤 Author
+# 👤 Author
 
-Andrew Nwachimere-eze Okebugwu, PhD Public Health Physician | Data Scientist
+Andrew Nwachimere-eze Okebugwu, PhD Public Health Physician | Healthcare Data Analyst
 
 LinkedIn: [https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617]
 
